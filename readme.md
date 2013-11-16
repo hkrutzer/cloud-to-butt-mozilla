@@ -1,11 +1,11 @@
-# cloud-to-butt-mozilla
+# xkcd #1288: Substitutions (Cloud To Butt Fork)
 
-Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension.
+Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension and Chris Wright's [Firefox version](https://github.com/DaveRandom/cloud-to-butt-mozilla).
 
 
 ## Installing
 
-Download [CloudToButt.xpi](https://github.com/DaveRandom/cloud-to-butt-mozilla/blob/master/CloudToButt.xpi?raw=true)
+Download [Substitutions.xpi](https://github.com/MozJan/cloud-to-butt-mozilla/blob/master/Substitutions.xpi?raw=true)
 
 
 ## Building
