@@ -91,6 +91,8 @@
         v = v.replace(/\bKeyboards\b/g, "Leopards");
         v = v.replace(/\bkeyboard\b/g, "leopards");
         v = v.replace(/\bKeyboard\b/g, "Leopards");
+        v = v.replace(/\bmy cat\b/g, "my friend Catherine");
+        v = v.replace(/\bMy cat\b/g, "My friend Catherine");
     
         textNode.nodeValue = v;
     }
